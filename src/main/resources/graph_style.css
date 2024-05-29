@@ -1,0 +1,31 @@
+node {
+    fill-color: black;
+    text-size: 20px;
+}
+
+node.departure {
+    fill-color: red;
+    size: 50px;
+    text-size: 20px;
+}
+
+node.arrival {
+    fill-color: blue;
+    size: 50px;
+    text-size: 20px;
+}
+
+edge.time {
+    size: 5px;
+    fill-color: green;
+}
+
+edge.distance {
+    size: 5px;
+    fill-color: orange;
+}
+
+edge.universal {
+    size: 5px;
+    fill-color: brown;
+}
